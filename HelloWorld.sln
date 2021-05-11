@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDemo", "ArrayDemo\Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDemo", "StringDemo\StringDemo.csproj", "{352A3548-884D-4F2D-A0DB-603AD4EBC2B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumDemo", "EnumDemo\EnumDemo.csproj", "{FF00441F-8131-4291-B706-21FE79CCD278}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -51,6 +53,10 @@ Global
 		{352A3548-884D-4F2D-A0DB-603AD4EBC2B5}.Debug|anycpu.Build.0 = Debug|anycpu
 		{352A3548-884D-4F2D-A0DB-603AD4EBC2B5}.Release|anycpu.ActiveCfg = Release|anycpu
 		{352A3548-884D-4F2D-A0DB-603AD4EBC2B5}.Release|anycpu.Build.0 = Release|anycpu
+		{FF00441F-8131-4291-B706-21FE79CCD278}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FF00441F-8131-4291-B706-21FE79CCD278}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FF00441F-8131-4291-B706-21FE79CCD278}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FF00441F-8131-4291-B706-21FE79CCD278}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
