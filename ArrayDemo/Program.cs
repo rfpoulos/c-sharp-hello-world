@@ -23,7 +23,7 @@ namespace ArrayDemo
             {
                 "Jack",
                 "John",
-                "Mart"
+                "Mary"
             };
         }
     }
