@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{07A781CA-9ABD-40D1-A646-D501D8715BCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversion", "TypeConversion\TypeConversion.csproj", "{19364F8E-82AF-423E-AD4E-29120372750E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -21,6 +23,10 @@ Global
 		{07A781CA-9ABD-40D1-A646-D501D8715BCC}.Debug|anycpu.Build.0 = Debug|anycpu
 		{07A781CA-9ABD-40D1-A646-D501D8715BCC}.Release|anycpu.ActiveCfg = Release|anycpu
 		{07A781CA-9ABD-40D1-A646-D501D8715BCC}.Release|anycpu.Build.0 = Release|anycpu
+		{19364F8E-82AF-423E-AD4E-29120372750E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{19364F8E-82AF-423E-AD4E-29120372750E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{19364F8E-82AF-423E-AD4E-29120372750E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{19364F8E-82AF-423E-AD4E-29120372750E}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
