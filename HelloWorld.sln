@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFundamentals", "CSharpFundamentals\CSharpFundamentals.csproj", "{BDEDE807-DA41-4319-8E59-F28D4DCA6A2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDemo", "ArrayDemo\ArrayDemo.csproj", "{B61EF365-7FEE-4565-A386-D5A55680B1B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -39,6 +41,10 @@ Global
 		{BDEDE807-DA41-4319-8E59-F28D4DCA6A2F}.Debug|anycpu.Build.0 = Debug|anycpu
 		{BDEDE807-DA41-4319-8E59-F28D4DCA6A2F}.Release|anycpu.ActiveCfg = Release|anycpu
 		{BDEDE807-DA41-4319-8E59-F28D4DCA6A2F}.Release|anycpu.Build.0 = Release|anycpu
+		{B61EF365-7FEE-4565-A386-D5A55680B1B3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B61EF365-7FEE-4565-A386-D5A55680B1B3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B61EF365-7FEE-4565-A386-D5A55680B1B3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B61EF365-7FEE-4565-A386-D5A55680B1B3}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
