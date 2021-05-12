@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumDemo", "EnumDemo\EnumDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypesValueTypesDemo", "ReferenceTypesValueTypesDemo\ReferenceTypesValueTypesDemo.csproj", "{9EA7D437-EF21-44EC-8A00-72F0D2D09FA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTypesDemo", "ValueTypesDemo\ValueTypesDemo.csproj", "{709BAB71-1603-4784-9370-EE4C7DA46FC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -63,6 +65,10 @@ Global
 		{9EA7D437-EF21-44EC-8A00-72F0D2D09FA6}.Debug|anycpu.Build.0 = Debug|anycpu
 		{9EA7D437-EF21-44EC-8A00-72F0D2D09FA6}.Release|anycpu.ActiveCfg = Release|anycpu
 		{9EA7D437-EF21-44EC-8A00-72F0D2D09FA6}.Release|anycpu.Build.0 = Release|anycpu
+		{709BAB71-1603-4784-9370-EE4C7DA46FC8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{709BAB71-1603-4784-9370-EE4C7DA46FC8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{709BAB71-1603-4784-9370-EE4C7DA46FC8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{709BAB71-1603-4784-9370-EE4C7DA46FC8}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
