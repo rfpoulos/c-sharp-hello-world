@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypesValueTypesDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTypesDemo", "ValueTypesDemo\ValueTypesDemo.csproj", "{709BAB71-1603-4784-9370-EE4C7DA46FC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{0D5DE82F-2A14-4550-A38E-E800A847D617}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalChallenge", "ConditionalChallenge\ConditionalChallenge.csproj", "{1457B3E7-9F25-426F-BA33-12E974237A35}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -69,6 +73,14 @@ Global
 		{709BAB71-1603-4784-9370-EE4C7DA46FC8}.Debug|anycpu.Build.0 = Debug|anycpu
 		{709BAB71-1603-4784-9370-EE4C7DA46FC8}.Release|anycpu.ActiveCfg = Release|anycpu
 		{709BAB71-1603-4784-9370-EE4C7DA46FC8}.Release|anycpu.Build.0 = Release|anycpu
+		{0D5DE82F-2A14-4550-A38E-E800A847D617}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{0D5DE82F-2A14-4550-A38E-E800A847D617}.Debug|anycpu.Build.0 = Debug|anycpu
+		{0D5DE82F-2A14-4550-A38E-E800A847D617}.Release|anycpu.ActiveCfg = Release|anycpu
+		{0D5DE82F-2A14-4550-A38E-E800A847D617}.Release|anycpu.Build.0 = Release|anycpu
+		{1457B3E7-9F25-426F-BA33-12E974237A35}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{1457B3E7-9F25-426F-BA33-12E974237A35}.Debug|anycpu.Build.0 = Debug|anycpu
+		{1457B3E7-9F25-426F-BA33-12E974237A35}.Release|anycpu.ActiveCfg = Release|anycpu
+		{1457B3E7-9F25-426F-BA33-12E974237A35}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
